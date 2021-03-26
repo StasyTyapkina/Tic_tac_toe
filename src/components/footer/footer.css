@@ -1,0 +1,32 @@
+
+a,
+a:after,
+a:visited{
+    text-decoration: none;
+    color: var(--color-light);
+}
+
+a:hover{
+    color: var(--color-yellow);
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.logo{
+    height: 30px;
+    margin: 0 10px;
+}
+
+.link{
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.copyright{
+    font-size: 14px;
+    margin: 0 10px;
+}

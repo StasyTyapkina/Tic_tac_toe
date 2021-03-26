@@ -1,0 +1,50 @@
+
+.square {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--color-yellow-light);
+  background-color:var(--color-black);
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+  color: var(--color-light);
+  text-shadow:
+    3px 0px 0 rgb(168, 165, 165),
+    4px 0px 0 rgb(85,85,85),
+    5px 0px 0 rgb(43,43,43);
+}
+
+.square:hover {
+  box-shadow: 1px 1px 25px 10px var(--color-yellow-rgba);
+}
+
+.square:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 200%;
+  height: 100%;
+  background: 
+    linear-gradient(
+      230deg,
+      transparent,
+      var(--color-yellow-rgba),
+      transparent
+    );
+  transition: all 650ms;
+}
+
+.square:hover:before {
+  left: 100%;
+}
+
+.square:active {
+  box-shadow: 1px 1px 25px 10px var(--color-yellow-light);
+}
+
+.fullscreen-enabled .square{
+  width: 150px;
+  height: 150px;
+  font-size: 80px;
+}

@@ -1,0 +1,46 @@
+:root{
+  --color-black: rgb(0, 0, 0);
+  --color-light: rgb(255, 255, 255);
+  --color-yellow: rgb(243, 227, 4);
+  --color-yellow-light:rgb(230, 219, 78);
+  --color-yellow-rgba: rgba(240, 225, 14, 0.3);
+  background: var(--color-black);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: inherit;
+}
+
+button, 
+button:active, 
+button:focus,
+audio,
+video {
+  outline: none;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+
+  color: var(--color-light);
+}
+
+.app {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+
+
+
+
+

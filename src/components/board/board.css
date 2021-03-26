@@ -1,0 +1,12 @@
+.board {
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+    gap: 2px;
+    margin-top: 20px;
+  }
+
+.fullscreen-enabled {
+  display: grid;
+  place-items: center;
+  font-size: 40px;
+}
