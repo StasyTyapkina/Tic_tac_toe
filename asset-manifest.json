@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tic_tac_toe/static/css/main.19b8a3fd.chunk.css",
+    "main.js": "/Tic_tac_toe/static/js/main.16526e12.chunk.js",
+    "main.js.map": "/Tic_tac_toe/static/js/main.16526e12.chunk.js.map",
+    "runtime-main.js": "/Tic_tac_toe/static/js/runtime-main.31bdbf7c.js",
+    "runtime-main.js.map": "/Tic_tac_toe/static/js/runtime-main.31bdbf7c.js.map",
+    "static/js/2.db70fe88.chunk.js": "/Tic_tac_toe/static/js/2.db70fe88.chunk.js",
+    "static/js/2.db70fe88.chunk.js.map": "/Tic_tac_toe/static/js/2.db70fe88.chunk.js.map",
+    "static/js/3.232ca545.chunk.js": "/Tic_tac_toe/static/js/3.232ca545.chunk.js",
+    "static/js/3.232ca545.chunk.js.map": "/Tic_tac_toe/static/js/3.232ca545.chunk.js.map",
+    "index.html": "/Tic_tac_toe/index.html",
+    "static/css/main.19b8a3fd.chunk.css.map": "/Tic_tac_toe/static/css/main.19b8a3fd.chunk.css.map",
+    "static/js/2.db70fe88.chunk.js.LICENSE.txt": "/Tic_tac_toe/static/js/2.db70fe88.chunk.js.LICENSE.txt",
+    "static/js/3.232ca545.chunk.js.LICENSE.txt": "/Tic_tac_toe/static/js/3.232ca545.chunk.js.LICENSE.txt",
+    "static/media/Chord_3.ccd52db0.mp3": "/Tic_tac_toe/static/media/Chord_3.ccd52db0.mp3",
+    "static/media/main.2950bb0c.mp3": "/Tic_tac_toe/static/media/main.2950bb0c.mp3",
+    "static/media/rs_school_logo.c55d9da8.png": "/Tic_tac_toe/static/media/rs_school_logo.c55d9da8.png",
+    "static/media/success.5f4128d4.mp3": "/Tic_tac_toe/static/media/success.5f4128d4.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31bdbf7c.js",
+    "static/js/2.db70fe88.chunk.js",
+    "static/css/main.19b8a3fd.chunk.css",
+    "static/js/main.16526e12.chunk.js"
+  ]
+}
