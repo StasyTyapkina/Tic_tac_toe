@@ -2,5 +2,5 @@
 React, CSS
 
 ## Tic-tac-toe
-#### Deploy https://travel-app.lmaa.ru/
+#### Deploy https://stasytyapkina.github.io/Tic_tac_toe/
 Классическая игра крестики-нолики.
